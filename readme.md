@@ -52,3 +52,12 @@ All the steps to solve the puzzle, must be shown in a beautiful manner. Also num
 1.  Each student must create a github repository with his/her name for this project. You must have meaningful **commits** during your progress. These commits would be checked and have direct effect in your grade. For the sake of security :) please don't share your repo with other students!
 
 2. In the end, each student must have a report file in pdf format and a presentation file in powerpoint. We would have a session and some random guys would present their work.
+
+
+# Plan
+# Board state class
+# Make graph of states
+# DFS function
+# BFS function 
+
+# ان شاء الله ui in android
